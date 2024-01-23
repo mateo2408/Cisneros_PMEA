@@ -1,6 +1,0 @@
-Nombre	Apellido	Edad	Sexo			Peso		Altura		Presion		Frecuencia cardiaca		IMC
-Mateo 	Cisneros	19		masculino		63.00		183.00		45			67						0.00
-Mateo 	Cisneros	19		masculino		63.00		183.00		56			86						0.00
-Mateo 	Cisneros	19		masculino		65.00		183.00		45			67						0.00
-Mateo 	Cisneros	19		masculino		63.00		183.00		46			68						0.00
-Mateo 	Cisneros	19		masculino		63.00		183.00		45			67						0.00
